@@ -14,7 +14,7 @@ The list of symtoms shows the most relevant symtoms to the endometriosis.
   - sexual pain (deep dyspareunia) was found to be associated with musculoskeletal pain contributors (abdominal wall pain and pelvic floor tenderness)
 
 - Hierarchical Clustering also applied and showed,
-Infertility is correlated to Ovarian Cysts, Heavy bleeding, pelvic pain, Dyspareunia and Endometriosis.
+  - Infertility is correlated to Ovarian Cysts, Heavy bleeding, pelvic pain, Dyspareunia and Endometriosis.
 
 
 
