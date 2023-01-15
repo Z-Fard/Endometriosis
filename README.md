@@ -8,10 +8,10 @@ The list of symtoms shows the most relevant symtoms to the endometriosis.
 
 - ML models whcih has been used:
 'LinearSVM','rbfSVM','KNearestNeighbors','RandomForestClassifier','DecisionTree','GradientBoostingClassifier','GaussianNB'
-Feature importance shows:
- - significant correlation between chronic pelvic pain and Endometriosis
+- Feature importance shows:
+  - significant correlation between chronic pelvic pain and Endometriosis
 
- - sexual pain (deep dyspareunia) was found to be associated with musculoskeletal pain contributors (abdominal wall pain and pelvic floor tenderness)
+  - sexual pain (deep dyspareunia) was found to be associated with musculoskeletal pain contributors (abdominal wall pain and pelvic floor tenderness)
 
 - Hierarchical Clustering also applied and showed,
 Infertility is correlated to Ovarian Cysts, Heavy bleeding, pelvic pain, Dyspareunia and Endometriosis.
